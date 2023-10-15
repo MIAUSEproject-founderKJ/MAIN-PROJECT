@@ -39,5 +39,9 @@ title 05 : Implementations needed
 
 2) ECONOMY
    1) NECESSARY TO BIND THE EXISTENCE OF THE MACHINE WITH THE REPPRESENTED HUMAN
-  
-   2) 
+   2) Both employers and employees able to gain profits from purchasing this products
+
+3) ETHICS & REGULATIONS
+   1) Avoid unemployment of people/replace people
+   2) Avoid misuse of MIAUSE product for slacking off
+   3) Disallow the abuse by authorities and companies
