@@ -10,20 +10,32 @@ The decreasing of population gain in nowadays is actually bad for the economy, b
 Now, we can see the future of auto-driving, which requires minimal manual interference. This shows that it is not impossible to develop MIAUSE that able to do work on behalf of someone. However, it is important that interaction through working is necessary in order to develop connections and communications with other people, preventing us from too indulged in our own safe zone.
 
 title 03 : Principles of MIAUSE
-1) Symbiotic- where every single machine/bot is doing work on behalf of certain existing working people. In addition, extra production due to the increase in manpower (machine/bot) will not be recognized in order to ensure human is not driven to do extra work.
-2) Inclusive- The product must be inclusive to employees from all classes.
-3) Upgradable-The product shall be able to upgrade themselves to optimize their production.
-4) Automatic - where the product shall able to self-repair, upgrade and do work with minimal supervision
-5) forms and shapes of machines shall not must be human-like shape
+1) Symbiotic- where every single machine/bot is doing work on behalf of certain existing working people. There must be existing employee for the bot in order to function. This is to prevent the bots from being used to replace actual human forces.
+   It is allowed that both represented human and the related bot working at the same time, but the production gain through the process shall be maintained the same as if only one human or bot working. This is to prevent employers from forcing the human employees to work even if there has been surrogate machine doing the job the human employee should be doing.
+   In addition, in order to prevent the employees from hiring human that only willings to work together with the machine, or pay more but in condition where both human and bot must be working all the time together......... mechanisms as the following as shall be implemented by MIAUSE itself:
+   A) Give benefits to employers who abide by the visions and goals of MIAUSE
+   B) Self-shut down or unrecognize the working hours credits
+   C) The bot able to combine both the working hours credits/total production value done by both of the human and bot to detect whether the employee is paying too less in proportion.
+   
+  3) Inclusive- The product must be inclusive to employees from all classes.
+  4) Upgradable-The product shall be able to upgrade themselves to optimize their production.
+  5) Automatic - where the product shall able to self-repair, upgrade and do work with minimal supervision
+  6) Non-Humanoid Shape: The form of the machines is not restricted to a human-like shape, promoting diversity in design.
 
-title 04 : Descriptions
+Reasons to Purchase:
+1) The product's AI capabilities offer stable and enhanced productivity.
+2) Bots reduce risks associated with human labor, like injuries and emergency leaves.
+3) MIAUSE breaks the cycle of excessive work, enabling humans to spend time on more fulfilling activities.
+4) It encourages the pursuit of less-profitable but valuable tasks, such as farming, plantation, and intellectual pursuits, by automating routine work.
+
+title 05 : Descriptions
 1) build a machine/bot-based system with Robotic process automation 
 2) which integrates self-circle virtual economy system that synchronize the credit of the machine/bot with the certain person
 3) The credit only will be recognizable when the represented person is doing productive activities like cooking, planting, spending time with family or friends, developing skills, mediating, thinking or resting during time the bots is doing jobs. Which means slacking off will be detected and the credits earned by the bot will not be usable.
 4) The recognized credits earned by the machine shall be convertible to salary
 5) Since the person is being represented by the machine, the 
 
-title 05 : Implementations needed
+title 06 : Implementations needed
 1) MACHINES
    1) INPUT OUTPUT OF INFORMATION
    2) SELF-MAINTENANCE
