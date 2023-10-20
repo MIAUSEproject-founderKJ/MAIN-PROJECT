@@ -11,7 +11,8 @@ Now, we can see the future of auto-driving, which requires minimal manual interf
 
 title 03 : Principles of MIAUSE
 1) Symbiotic- where every single machine/bot is doing work on behalf of certain existing working people. There must be existing employee for the bot in order to function. This is to prevent the bots from being used to replace actual human forces.
-   It is allowed that both represented human and the related bot working at the same time, but the production gain through the process shall be maintained the same as if only one human or bot working. This is to prevent employers from forcing the human employees to work even if there has been surrogate machine doing the job the human employee should be doing.
+   It is allowed that both represented human and the related bot working at the same time, but the credit due to production gain through the process shall be maintained the same as if only one human or bot working. This is to prevent employers from forcing the human employees to work even if there has been surrogate machine doing the job the human employee should be doing, and to keep the employees away from working for salary/bonus gain, which contradicts the core principle of MIAUSE.
+   
    In addition, in order to prevent the employees from hiring human that only willings to work together with the machine, or pay more but in condition where both human and bot must be working all the time together......... mechanisms as the following as shall be implemented by MIAUSE itself:
    A) Give benefits to employers who abide by the visions and goals of MIAUSE
    B) Self-shut down or unrecognize the working hours credits
