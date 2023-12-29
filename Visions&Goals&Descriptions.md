@@ -34,7 +34,7 @@ title 05 : Descriptions
 2) which integrates self-circle virtual economy system that synchronize the credit of the machine/bot with the certain person
 3) The credit only will be recognizable when the represented person is doing productive activities like cooking, planting, spending time with family or friends, developing skills, mediating, thinking or resting during time the bots is doing jobs. Which means slacking off will be detected and the credits earned by the bot will not be usable.
 4) The recognized credits earned by the machine shall be convertible to salary
-5) Since the person is being represented by the machine, the 
+5) Since the person is being represented by the machine, the problem that robots will replace human is prevented.  
 
 title 06 : Implementations needed
 1) MACHINES
