@@ -1,0 +1,1 @@
+The ultimate goal is to allow and encourage people to reach divinity within their spirit, or reach harmonious relationship with things around us, by allowing more time for less-profitable activities can be done or studied, without sacrificing volume of production, growth of capital, total replacement of robot.   
